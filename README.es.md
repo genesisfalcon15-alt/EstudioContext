@@ -6,7 +6,8 @@ Utilizada por [4Geeks.com](https://4geeks.com/) y los estudiantes de [4Geeks Aca
 
 ### Empezando:
 
-> 📦 Asegúrate de usar al menos la versión 20 de Node.
+> 📦 Asegúrate de usar al menos la versión 70 de Node.
+> 
 
 1. Instala las dependencias del paquete node escribiendo: `$ npm install`
 
@@ -60,7 +61,7 @@ Iniciar sesión (necesitas tener una cuenta):
 ```sh
 $ npm i vercel -g && vercel login
 ```
-Desplegar:
+Desplegar:  
 ```sh
 $ vercel --prod
 ```
